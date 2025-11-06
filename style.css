@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid red; */
+} 
+
+a,
+ul,
+a:visited {
+    list-style: none;
+    color: white;
+    text-decoration: none;          
+}
+
+.header {
+    background: #134d3f;
+    background: linear-gradient(90deg, rgb(16, 68, 57) 0%, rgb(35, 131, 83) 100%);
+    padding: 7px 20px;
+}
+
+.ul1 {
+    display: flex;
+}
+
+.img-logo {
+    height: 40px;   
+}
+
+.li2 {
+    padding: 5px;
+    padding-left: 20px;
+}
+
+.enviar {
+    font-family: 'Roboto';
+    font-size: 11px;
+}
+
+.puerto {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 13px;
+}
+
+.li3 {
+    padding: 10px;
+}
+
+.header2 {
+    background: #134d3f;
+    background: linear-gradient(90deg,rgb(8, 94, 83) 0%, rgba(27, 92, 79, 1) 100%);
+    padding: 6px 20px;
+}
+
+.ul2 {
+    display: flex;
+}
+
+.li4 {
+    padding: 3px 15px;
+}
+
+.burger {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.li5 {
+    padding: 3px 15px;
+}
+
+.zona {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.li6 {
+    padding: 3px 15px;
+}
+
+.ofertas {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.li7 {
+    padding: 3px 15px;
+}
+
+.comprar {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.li8 {
+    padding: 3px 15px;
+}
+
+.gonzalo {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+.li9 {
+    padding: 3px 15px;
+}
+
+.historial {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.li10 {
+    padding: 3px 15px;
+}
+
+.regalo {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.li11 {
+    padding: 3px 15px;
+}
+
+.servicio {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.li12 {
+    padding: 3px 15px;
+}
+
+.vender {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.li13 {
+    padding: 3px 15px;
+}
+
+.prime {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.hero {
+    margin-left: 200px;
+}
+
+.img-hero {
+    height: 600px;
+    align-items: center;
+    justify-items: center;
+}
